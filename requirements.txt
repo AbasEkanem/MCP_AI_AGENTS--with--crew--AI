@@ -1,0 +1,6 @@
+crewai
+crewai-tools[mcp]
+faiss-cpu
+django
+langchain-google-genai
+google-genai
